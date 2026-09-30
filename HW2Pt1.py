@@ -44,3 +44,4 @@ print(f"R-squared variance: {results_df['R-squared'].var()}")
 
 print("Best result: \n", results_df.loc[max_i])
 print("Worst result: \n", results_df.loc[min_i])
+
